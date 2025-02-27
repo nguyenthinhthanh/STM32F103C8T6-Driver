@@ -1,0 +1,8 @@
+"./Driver/Src/STM32F103C8T6_GPIO_Driver.o"
+"./Driver/Src/STM32F103C8T6_I2C_Driver.o"
+"./Driver/Src/STM32F103C8T6_SPI_Driver.o"
+"./Driver/Src/STM32F103C8T6_TIM_Driver.o"
+"./Src/TIM_General_InputCapture.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"
