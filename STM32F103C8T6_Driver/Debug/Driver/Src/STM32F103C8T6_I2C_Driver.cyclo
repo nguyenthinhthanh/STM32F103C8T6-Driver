@@ -1,0 +1,17 @@
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:12:6:I2C1_RESET	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:17:6:I2C2_RESET	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:24:6:I2C_ClkControl	6
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:49:6:I2C_PeripheralControl	2
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:59:17:IC2_GetPLLClkValue	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:66:10:I2C_GetPclk1Value	18
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:170:6:I2C_Init	5
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:243:6:I2C_DeInit	3
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:255:9:I2C_GetFlagStatus	5
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:278:6:I2C_SetAckBit	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:288:13:I2C_GenerationStartCondition	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:292:13:I2C_GenerationStopCondition	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:296:13:I2C_SendAddressPhase	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:304:13:I2C_ClearAddrFlag	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:311:6:I2C_MasterSendData	7
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:340:6:I2C_IRQPriorityConFig	1
+../Driver/Src/STM32F103C8T6_I2C_Driver.c:348:6:I2C_IRQConFig	12
