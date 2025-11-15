@@ -26,18 +26,18 @@ Dự án này bao gồm các driver cơ bản cho vi điều khiển **STM32F103
 
 
 ## Hướng dẫn sử dụng
-### 1️⃣ Clone repo
+### 1️. Clone repo
 ```bash
 git clone https://github.com/nguyenthinhthanh/STM32F103C8T6-Driver
 ```
-### 2️⃣ Thêm thư mục Drivers/ vào dự án STM32CubeIDE
+### 2️. Thêm thư mục Drivers/ vào dự án STM32CubeIDE
 - Sao chép thư mục Drivers/ vào thư mục dự án của bạn.
 - Thêm đường dẫn Drivers/ vào Include Paths trong STM32CubeIDE.
-### 3️⃣ Viết chương trình chính (main.c) để sử dụng driver
+### 3️. Viết chương trình chính (main.c) để sử dụng driver
 
 ## Đóng góp
-- Bạn có ý tưởng cải thiện trò chơi? Hãy mở Pull Request hoặc Issue trên GitHub!
+Bạn có ý tưởng cải thiện trò chơi? Hãy mở Pull Request hoặc Issue trên GitHub!
 
 ## Giấy phép
-- Null.
+Dự án này được tạo ra chỉ nhằm mục đích học tập. Không được sử dụng cho mục đích thương mại.
 
